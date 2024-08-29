@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+}
+
+.shadow-lg img {
+    scale: 1;
+}
+
+.shadow-lg img:hover {
+    transition: 0.3s ease-in-out;
+    scale: 0.9;
+}
+
+.card-title {
+    margin-top: 10px;
+    height: 50px;
+}
+
+.card-title:hover {
+    transition: 0.3s ease-in-out;
+    margin-top: -10px;
+}
+
+.carousel-item {
+    height: 450px;
+    object-fit: cover;
+
+}
+
+.card {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.brand-name {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.col {
+    font-size: 13px;
+}
+
+
+.deta {
+    width: 100%;
+    background-color: rgba(8, 8, 8, 0.11);
+}
+
+
+
+.detail {
+    display: flex;
+    justify-content: flex-end;
+    gap: 50px;
+    padding: 10px;
+}
+
+
+.detail img {
+    width: 20px;
+    height: auto;
+}
+
+.question {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    background-color: rgba(8, 8, 8, 0.11);
+
+}
+
+.tp {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.tp a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.move {
+    background-color: rgba(8, 8, 8, 0.11);
+}
+
+
+.inp:focus {
+    border: none;
+    box-shadow: 0 0 0;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+    width: 100%;
+}

@@ -27,6 +27,9 @@
     margin-top: -10px;
 }
 
+.col{
+    cursor: progress;
+}
 .carousel-item {
     height: 450px;
     object-fit: cover;

@@ -112,4 +112,31 @@
     z-index: 9999;
     width: 100%;
 }
-
+.fill{
+   
+    height: 400px;
+    width: auto;
+    border: 2px solid black;
+}
+.fill form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+form input{
+    width: 30%;
+}
+form{
+    margin-left: 30px;
+}
+.dot{
+    letter-spacing: 2px;
+}
+.dot input{
+    width: 5%;
+    
+}
+#payment{
+    width: 30%;
+margin-bottom: 10px;
+}

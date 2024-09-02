@@ -22,7 +22,12 @@ body {
 .lezu{
     font-size: 30px;
 }
-
+.navbar {
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+    width: 100%;
+}
 .boxes-container {
     display: flex;
     justify-content: space-between;

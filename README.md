@@ -1,7 +1,7 @@
-# _{Application Name}_
-Car Dealership
-#### _{Brief description of application}_
-Welcome to the Car Dealership Website project! This website is designed to showcase and provide information about various cars available at our dealership.
+# _{Car Dealership}_
+
+#### _{Welcome to the Car Dealership Website project! This website is designed to showcase and provide information about various cars available at our dealership.}_
+
 #### By _**{List of contributors}**_
 
 ## Technologies Used
@@ -30,14 +30,14 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _not responsive_
+* _not all ancor tags has a page in it_
 
 ## License
 
 MIT
 ## Contact Information
 
-_{Add your contact information here.}_
-08050482963
-email: shinacars@gmail.com
+_{08050482963 
+
+email: shinacars@gmail.com.}_
